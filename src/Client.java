@@ -8,8 +8,6 @@ public class Client {
 
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-
-
     }
 
 }
